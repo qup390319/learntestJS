@@ -1,0 +1,2 @@
+另外創建一個檔案script.js
+在html檔案裡做script引入
